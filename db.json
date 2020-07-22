@@ -1,6 +1,7 @@
 {
   "results": [
     {
+      "id": 1,
       "receivedate": "20040319",
       "patient": {
         "reaction": [
@@ -41,6 +42,7 @@
       "companynumb": "US-JNJFOC-20031200496"
     },
     {
+      "id": 2,
       "receivedate": "20040319",
       "receiptdate": "20031211",
       "patient": {
@@ -91,6 +93,7 @@
       "safetyreportid": "4322588-1"
     },
     {
+      "id": 3,
       "receivedate": "20040319",
       "patient": {
         "reaction": [
@@ -133,6 +136,7 @@
       "companynumb": "US-JNJFOC-20031201856"
     },
     {
+      "id": 4,
       "receivedate": "20110113",
       "patient": {
         "reaction": [
@@ -171,6 +175,7 @@
       "safetyreportid": "7240327-1"
     },
     {
+      "id": 5,
       "receivedate": "20040319",
       "patient": {
         "reaction": [
@@ -208,6 +213,7 @@
       "companynumb": "US-JNJFOC-20031202324"
     },
     {
+      "id": 6,
       "receivedate": "20040319",
       "patient": {
         "reaction": [
@@ -245,6 +251,7 @@
       "companynumb": "US-JNJFOC-20031204795"
     },
     {
+      "id": 7,
       "receivedate": "20081120",
       "patient": {
         "reaction": [
@@ -281,6 +288,7 @@
       "companynumb": "US-ABBOTT-08P-163-0449323-00"
     },
     {
+      "id": 8,
       "receivedate": "20110119",
       "patient": {
         "reaction": [
