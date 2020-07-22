@@ -2,333 +2,194 @@
   "results": [
     {
       "id": 1,
-      "receivedate": "20040319",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "METRORRHAGIA"
-          }
-        ],
-        "patientonsetage": "23",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "ORTHO EVRA",
-            "drugindication": "CONTRACEPTION",
-            "drugadministrationroute": "062",
-            "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
-            "drugcharacterization": "1",
-            "drugstartdate": "20031108",
-            "drugauthorizationnumb": "21180"
-          }
-        ],
-        "patientweight": "65.7716",
-        "patientsex": "2",
-        "patientonsetageunit": "801"
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20041129",
-      "primarysource": null,
-      "receiptdate": "20031126",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "receiver": null,
-      "serious": "2",
-      "receivedateformat": "102",
-      "fulfillexpeditecriteria": "2",
-      "safetyreportid": "4345522-7",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "ORTHO EVRA",
+      "drugindication": "CONTRACEPTION",
+      "drugadministrationroute": "062",
+      "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
+      "drugcharacterization": "1",
+      "drugstartdate": "20031108",
+      "drugauthorizationnumb": "21180",
       "companynumb": "US-JNJFOC-20031200496"
     },
     {
       "id": 2,
-      "receivedate": "20040319",
-      "receiptdate": "20031211",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "TRANSIENT ISCHAEMIC ATTACK"
-          }
-        ],
-        "patientonsetage": "29",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "ORTHO EVRA",
-            "drugindication": "MENORRHAGIA",
-            "drugenddateformat": "102",
-            "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK",
-            "drugcharacterization": "1",
-            "drugstartdate": "20030819",
-            "drugauthorizationnumb": "21180",
-            "drugbatchnumb": "62K071P1",
-            "drugenddate": "20031015"
-          },
-          {
-            "drugcharacterization": "2",
-            "medicinalproduct": "TOPRAL (SULTOPRIDE)"
-          }
-        ],
-        "patientweight": "80.7403",
-        "patientsex": "2",
-        "patientonsetageunit": "801"
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20041129",
-      "fulfillexpeditecriteria": "2",
-      "seriousnessother": "1",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "primarysource": {
-        "qualification": "1"
-      },
-      "seriousnesshospitalization": "1",
-      "receiver": null,
-      "serious": "1",
-      "receivedateformat": "102",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "ORTHO EVRA",
+      "drugindication": "MENORRHAGIA",
+      "drugenddateformat": "102",
+      "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK",
+      "drugcharacterization": "1",
+      "drugstartdate": "20030819",
+      "drugauthorizationnumb": "21180",
+      "drugbatchnumb": "62K071P1",
+      "drugenddate": "20031015",
       "companynumb": "US-JNJFOC-20031100066",
       "safetyreportid": "4322588-1"
     },
     {
       "id": 3,
-      "receivedate": "20040319",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "METRORRHAGIA"
-          }
-        ],
-        "patientonsetage": "22",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "ORTHO EVRA",
-            "drugindication": "CONTRACEPTION",
-            "drugadministrationroute": "062",
-            "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
-            "drugcharacterization": "1",
-            "drugstartdate": "20041116",
-            "drugauthorizationnumb": "21180"
-          }
-        ],
-        "patientweight": "55.7924",
-        "patientsex": "2",
-        "patientonsetageunit": "801"
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20041129",
-      "primarysource": {
-        "qualification": "5"
-      },
-      "receiptdate": "20031203",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "receiver": null,
-      "serious": "2",
-      "receivedateformat": "102",
-      "fulfillexpeditecriteria": "2",
-      "safetyreportid": "4328204-7",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "ORTHO EVRA",
+      "drugindication": "CONTRACEPTION",
+      "drugadministrationroute": "062",
+      "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
+      "drugcharacterization": "1",
+      "drugstartdate": "20041116",
+      "drugauthorizationnumb": "21180",
       "companynumb": "US-JNJFOC-20031201856"
     },
     {
       "id": 4,
-      "receivedate": "20110113",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "DRUG INEFFECTIVE"
-          }
-        ],
-        "patientsex": "2",
-        "drug": [
-          {
-            "drugcharacterization": "1",
-            "drugdosagetext": "CURATIVE TREATMENT",
-            "drugauthorizationnumb": "020484",
-            "drugindication": "THROMBOSIS",
-            "medicinalproduct": "INNOHEP"
-          }
-        ]
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20110831",
-      "fulfillexpeditecriteria": "1",
-      "receiptdate": "19980309",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "primarysource": {
-        "reportercountry": "FRANCE",
-        "qualification": "1"
-      },
-      "seriousnesshospitalization": "1",
-      "receiver": null,
-      "serious": "1",
-      "receivedateformat": "102",
+      "drugcharacterization": "1",
+      "drugdosagetext": "CURATIVE TREATMENT",
+      "drugauthorizationnumb": "020484",
+      "drugindication": "THROMBOSIS",
+      "medicinalproduct": "INNOHEP",
       "companynumb": "LEO-2011-00034",
       "safetyreportid": "7240327-1"
     },
     {
       "id": 5,
-      "receivedate": "20040319",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "METRORRHAGIA"
-          }
-        ],
-        "patientsex": "2",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "ORTHO EVRA",
-            "drugindication": "MENSTRUATION IRREGULAR",
-            "drugadministrationroute": "062",
-            "drugdosagetext": "1 DOSE (S), 3 IN 4 WEEK, TRANSDERMAL",
-            "drugcharacterization": "1",
-            "drugstartdate": "20031127",
-            "drugauthorizationnumb": "21180"
-          }
-        ]
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20041129",
-      "primarysource": null,
-      "receiptdate": "20031208",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "receiver": null,
-      "serious": "2",
-      "receivedateformat": "102",
-      "fulfillexpeditecriteria": "2",
-      "safetyreportid": "4328594-5",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "ORTHO EVRA",
+      "drugindication": "MENSTRUATION IRREGULAR",
+      "drugadministrationroute": "062",
+      "drugdosagetext": "1 DOSE (S), 3 IN 4 WEEK, TRANSDERMAL",
+      "drugcharacterization": "1",
+      "drugstartdate": "20031127",
+      "drugauthorizationnumb": "21180",
       "companynumb": "US-JNJFOC-20031202324"
     },
     {
       "id": 6,
-      "receivedate": "20040319",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "APPLICATION SITE REACTION"
-          }
-        ],
-        "patientsex": "2",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "ORTHO EVRA",
-            "drugindication": "CONTRACEPTION",
-            "drugadministrationroute": "062",
-            "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
-            "drugcharacterization": "1",
-            "drugstartdate": "20030601",
-            "drugauthorizationnumb": "21180"
-          }
-        ]
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20041129",
-      "primarysource": null,
-      "receiptdate": "20031221",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "receiver": null,
-      "serious": "2",
-      "receivedateformat": "102",
-      "fulfillexpeditecriteria": "2",
-      "safetyreportid": "4329469-8",
-      "companynumb": "US-JNJFOC-20031204795"
-    },
-    {
-      "id": 7,
-      "receivedate": "20081120",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "URTICARIA"
-          }
-        ],
-        "drug": [
-          {
-            "drugcharacterization": "1",
-            "drugauthorizationnumb": "050662",
-            "drugbatchnumb": "UNKNOWN",
-            "drugindication": "DRUG USE FOR UNKNOWN INDICATION",
-            "medicinalproduct": "BIAXIN"
-          }
-        ]
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20090506",
-      "primarysource": {
-        "reportercountry": "UNITED STATES",
-        "qualification": "1"
-      },
-      "receiptdate": "20001102",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "receiver": null,
-      "serious": "2",
-      "receivedateformat": "102",
-      "fulfillexpeditecriteria": "2",
-      "safetyreportid": "5960597-7",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "ORTHO EVRA",
+      "drugindication": "CONTRACEPTION",
+      "drugadministrationroute": "062",
+      "drugdosagetext": "1 DOSE(S), 3 IN 4 WEEK, TRANSDERMAL",
+      "drugcharacterization": "1",
+      "drugstartdate": "20030601",
+      "drugauthorizationnumb": "21180",
       "companynumb": "US-ABBOTT-08P-163-0449323-00"
     },
     {
       "id": 8,
-      "receivedate": "20110119",
-      "patient": {
-        "reaction": [
-          {
-            "reactionmeddrapt": "POST PROCEDURAL PULMONARY EMBOLISM"
-          }
-        ],
-        "patientsex": "2",
-        "drug": [
-          {
-            "drugstartdateformat": "102",
-            "medicinalproduct": "INNOHEP",
-            "drugindication": "THROMBOSIS PROPHYLAXIS",
-            "drugadministrationroute": "058",
-            "drugdosagetext": "SUBCUTANEOUS",
-            "drugcharacterization": "1",
-            "drugstartdate": "19990401",
-            "drugauthorizationnumb": "020484"
-          }
-        ]
-      },
-      "sender": {
-        "senderorganization": "FDA-Public Use"
-      },
-      "transmissiondate": "20110831",
-      "fulfillexpeditecriteria": "1",
-      "receiptdate": "19990707",
-      "transmissiondateformat": "102",
-      "receiptdateformat": "102",
-      "seriousnessdeath": "1",
-      "seriousnesshospitalization": "1",
-      "receiver": null,
-      "serious": "1",
-      "receivedateformat": "102",
-      "primarysource": {
-        "reportercountry": "FRANCE",
-        "qualification": "1"
-      },
-      "safetyreportid": "7251171-3",
+      "drugstartdateformat": "102",
+      "medicinalproduct": "INNOHEP",
+      "drugindication": "THROMBOSIS PROPHYLAXIS",
+      "drugadministrationroute": "058",
+      "drugdosagetext": "SUBCUTANEOUS",
+      "drugcharacterization": "1",
+      "drugstartdate": "19990401",
+      "drugauthorizationnumb": "020484",
       "companynumb": "LEO-2011-00072"
-    }
-  ]
+    },
+    {
+      "id": 9,
+      "drugstartdateformat": "102",
+      "medicinalproduct": "TEMODAL",
+      "drugindication": "ASTROCYTOMA",
+      "drugadministrationroute": "048",
+      "drugenddateformat": "102",
+      "drugdosagetext": "400 MG D1-D5* ORAL",
+      "drugcharacterization": "1",
+      "drugstartdate": "20031219",
+      "drugauthorizationnumb": "21029",
+      "drugenddate": "20040215"
+    },
+    {
+      "id": 10,
+      "drugstartdateformat": "102",
+      "medicinalproduct": "BLOPRESS",
+      "drugindication": "HYPERTENSION",
+      "drugadministrationroute": "048",
+      "drugenddateformat": "102",
+      "drugdosagetext": "8 MG QD PO",
+      "drugcharacterization": "1",
+      "drugstartdate": "20030509",
+      "drugauthorizationnumb": "20838",
+      "drugenddate": "20030613"
+    },
+    {
+      "id": 11,
+      "drugstartdateformat": "102",
+      "medicinalproduct": "IL-2 2 MU SQ",
+      "drugindication": "METASTATIC MALIGNANT MELANOMA",
+      "drugadministrationroute": "058",
+      "drugenddateformat": "102",
+      "drugdosagetext": "2 MU SQ",
+      "drugcharacterization": "1",
+      "drugstartdate": "20030610",
+      "drugenddate": "20030807"
+    },
+    {
+      "id": 12,
+      "drugstartdateformat": "102",
+      "medicinalproduct": "FASTIC #AJ",
+      "drugindication": "DIABETES MELLITUS",
+      "drugadministrationroute": "048",
+      "drugenddateformat": "102",
+      "drugdosagetext": "270 MG/DAY",
+      "drugtreatmentduration": "34560",
+      "drugtreatmentdurationunit": null,
+      "drugcharacterization": "1",
+      "drugstartdate": "20031117",
+      "drugenddate": "20031210"
+    },
+    {
+      "id": 13,
+      "drugstartdateformat": "102",
+      "medicinalproduct": "TEQUIN",
+      "drugindication": "PROSTATITIS",
+      "drugadministrationroute": "048",
+      "drugdosagetext": "FOUR-WEEK COURSE",
+      "drugtreatmentduration": "3",
+      "drugtreatmentdurationunit": null,
+      "drugcharacterization": "1",
+      "drugstartdate": "20040101"
+    },
+  },
+  {
+    "id": 14,
+    "drugstartdateformat": "102",
+    "medicinalproduct": "ISOPTIN",
+    "drugindication": "ATRIAL FIBRILLATION",
+    "drugadministrationroute": "048",
+    "drugenddateformat": "102",
+    "drugdosagetext": "120 MG, 2 IN 1 D, PER ORAL",
+    "drugcharacterization": "1",
+    "drugstartdate": "20030703",
+    "drugauthorizationnumb": "18593",
+    "drugenddate": "20030709"
+  },
+  {
+    "id": 15,
+    "drugstartdateformat": "102",
+    "medicinalproduct": "CLAFORAN",
+    "drugindication": "CONDITION AGGRAVATED",
+    "drugenddateformat": "102",
+    "drugdosagetext": "2 G BID IVF",
+    "drugtreatmentduration": "6",
+    "drugtreatmentdurationunit": "804",
+    "drugcharacterization": "1",
+    "drugstartdate": "20031215",
+    "drugauthorizationnumb": "50547",
+    "drugenddate": "20031220"
+  },
+  {
+    "id": 16,
+    "drugstartdateformat": "102",
+    "medicinalproduct": "ROCEPHIN",
+    "drugindication": "BRONCHOPNEUMOPATHY",
+    "drugadministrationroute": "058",
+    "drugenddateformat": "102",
+    "drugdosagetext": "FORMULATION REPORTED AS INJECTABLE SOLUTION.",
+    "drugtreatmentduration": "6",
+    "drugtreatmentdurationunit": null,
+    "drugcharacterization": "1",
+    "drugstartdate": "20001018",
+    "drugenddate": "20001023"
+  }
+]
 }
