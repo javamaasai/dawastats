@@ -1,3 +1,5 @@
+![dawastat ad sample](https://github.com/javamaasai/dawastats/blob/master/screenshots/dawastats-02.png?raw=true)
+
 # Data Statistics
 
 Dawa statistics is an application that list medical data information.
